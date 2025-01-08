@@ -8,6 +8,4 @@ CAW24G lär sig om Cloudutveckling med Java och AWS.
 
 ## Kurser
 
-- Objektorienterad Programmering med Java
-- Självledarskap
-- Systematisk Programmering med Java
+Läs mer om våra kurser här: [Kurser](/courses.md)
